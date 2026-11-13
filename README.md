@@ -3,6 +3,8 @@
 
 #  
 
+[![prxy+](https://img.shields.io/badge/prxy+-%23121011.svg?logo=github&logoColor=white)](https://prxyplg.github.io/prxy/)
+
 <table>
   <tr>
     <td>
