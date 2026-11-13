@@ -3,7 +3,8 @@
 
 #  
 
-[![prxy+](https://img.shields.io/badge/prxy+-%23121011.svg?logo=github&logoColor=white)](https://prxyplg.github.io/prxy/)
+[![Veil](https://img.shields.io/badge/Veil-%2330A2FF.svg?style=for-the-badge&logo=vllm&logoColor=ffffff)](https://prxyplg.github.io/veil/) 👈  
+Try Veil, A New Proxy Released on [11/13/26], built with users in mind and high power in hand. A domain-rotating proxy app for students to get around "blockers" with absolute ease and comfort.
 
 <table>
   <tr>
