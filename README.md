@@ -1,5 +1,7 @@
-[![Veil](https://img.shields.io/badge/veil-v4.5-blue?logo=github)](https://prxyplg.github.io/veil/)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fprxyplg.github.io%2Fveil%2F&label=Visits&countColor=%23007ec6&style=flat)
+[![Veil](https://img.shields.io/badge/Veil-%23007ec6.svg?style=plastic&logo=vllm&logoColor=ffffff)](https://prxyplg.github.io/veil/) 👈  
+
+[![Veil](https://img.shields.io/badge/veil-v4.5-blue?style=plastic&logo=github)](https://prxyplg.github.io/veil/)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fprxyplg.github.io%2Fveil%2F&label=Visits&countColor=%23007ec6&style=plastic)
 
 #  
 
